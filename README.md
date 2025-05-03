@@ -1,11 +1,6 @@
-<h2 align="left">Hi 👋! My name is Muhammed Yousuf Nabi and I'm a Part-time and full mobile application developer specializing in [Dart, Flutter, GetX State Management] Also Frontend Web Designer, from Chattogram Bangladesh.</h2>
+<h4 align="left">Hi There👋! My name is Muhammed Yousuf Nabi and I'm a Part-time and full mobile application developer specializing in [Dart, Flutter, GetX State Management] Also Frontend Web Designer, from Chattogram Bangladesh.</h4>
 
-###
-
-<img align="right" height="150" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
-
-###
-
+### 🚀 Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -26,7 +21,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-###
+### 📊 GitHub Stats and Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Yousuf-Nabi&layout=compact&bg_color=ffffff&text_color=333333&title_color=007bff&icon_color=20c997" alt="Top Languages" width="34%" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Yousuf-Nabi&show_icons=true&bg_color=ffffff&text_color=333333&title_color=007bff&icon_color=20c997" alt="Your GitHub Stats" width="45%" />
+</div>
+
+---
+
+### 📫 Reach me at
 
 <div align="center">
   <a href="mdyousuf35.bd@gmail.com" target="_blank">
@@ -49,4 +53,3 @@
   </a>
 </div>
 
-###
