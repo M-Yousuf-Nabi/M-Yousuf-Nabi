@@ -1,5 +1,7 @@
-<h4 align="left">Hi There👋! My name is Muhammed Yousuf Nabi and I'm a Part-time and full mobile application developer specializing in [Dart, Flutter, GetX State Management] Also Frontend Web Designer, from Chattogram Bangladesh.</h4>
+## Hi There👋
+> My name is Muhammed Yousuf Nabi, and I'm a Part-time and full mobile application developer specializing in [Dart, Flutter, GetX State Management]. Also, a Frontend Web Designer from Chattogram, Bangladesh.
 
+---
 ### 🚀 Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -20,6 +22,7 @@
   <img width="12" />
 </div>
 
+---
 ### 📊 GitHub Stats and Most Used Languages
 
 <div align="center">
@@ -52,3 +55,4 @@
   </a>
 </div>
 
+---
